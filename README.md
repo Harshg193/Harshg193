@@ -25,7 +25,7 @@ I'm always learning, creating, and collaborating to bring impactful ideas to lif
 - Tools: `Jupyter Notebook`, `VS Code`, `Git`, `GitHub`
 - Technologies: `Blockchain (Ethereum, Smart Contracts, IPFS)`, `Machine Learning`, `Web Development`
 - Libraries/Frameworks: `Pandas`, `NumPy`, `Scikit-learn`, `Flask`
-- Platforms: `AWS`, `Swayam`, `YouTube API`, `OpenAI API`
+- Platforms: `AWS`, `YouTube API`, `OpenAI API`
 
 ---
 
