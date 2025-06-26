@@ -9,22 +9,15 @@ I'm always learning, creating, and collaborating to bring impactful ideas to lif
 
 ## 🔥 About Me
 - 🎓 Currently studying and working on innovative projects in **AI/ML, Blockchain, and Web Development**.
-- 🤖 Developing a **Campus Info Chatbot** with detailed structured data for booking rooms, accessing FAQs, and finding campus resources.
-- 📚 Working on a **Personalized Learning Platform** with features like:
-  - Dynamic **recommendation systems**
-  - **Gamified quizzes** and **streak tracking**
-  - **Problem of the Day** challenges
-- 🔗 Enthusiastic about **Blockchain**, creating projects like:
-  - **Blockchain-based Electronic Health Record (EHR)** using Smart Contracts and IPFS.
-- 🛒 Exploring **e-commerce** by planning to bring my family's wholesale Kirana store online like Flipkart and Amazon!
+
 
 ---
 
 ## 🛠️ Technologies & Tools
-- Languages: `Python`, `Java`, `C++`, `HTML`, `CSS`, `JavaScript`
+- Languages: `Python`, `Java`, `C++`, `HTML`, `CSS`
 - Tools: `Jupyter Notebook`, `VS Code`, `Git`, `GitHub`
 - Technologies: `Blockchain (Ethereum, Smart Contracts, IPFS)`, `Machine Learning`, `Web Development`
-- Libraries/Frameworks: `Pandas`, `NumPy`, `Scikit-learn`, `Flask`
+- Libraries/Frameworks: `Pandas`, `NumPy`, `Scikit-learn`, `Streamlit`
 - Platforms: `AWS`, `YouTube API`, `OpenAI API`
 
 ---
